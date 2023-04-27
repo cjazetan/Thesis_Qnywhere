@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576927581557",
+    "project_id": "thesis-qnywhere",
+    "storage_bucket": "thesis-qnywhere.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576927581557:android:61b938c57e5ad10ab5ff3c",
+        "android_client_info": {
+          "package_name": "com.example.qnywhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576927581557-ll6pijgkj8fgp5olnnh6e31fsdte0ull.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrmmiV49qBySqapqiHVPlZQweA6sMiCdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576927581557-ll6pijgkj8fgp5olnnh6e31fsdte0ull.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
